@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">POC</string>
+    <string name="note_msg"><![CDATA[ Note: You must select the <b>Company\'s Wi-Fi</b> which you are going to use in future to mark your attendance.]]></string>
+    <string name="txt_continue">Continue</string>
+    <string name="configure_wifi">Configure WiFi</string>
+    <string name="connected_to">You are now connected to,</string>
+    <string name="change">Change</string>
+    <string name="error_msg_went_wrong">Something went wrong please try again!</string>
+    <string name="error_msg_connect_to_wifi">Please connect phone to the your company\'s  WiFi</string>
+    <string name="alert">Alert</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="msg_scan">(Verify you identity and mark attendance by placing your fingetip on the scanner.)</string>
+    <string name="error_msg_register_fingerprint">Register at least one fingerprint in Settings</string>
+    <string name="authentication_success">Authentication Success!</string>
+    <string name="authentication_error_try_again">Authentication Error. Try Again!</string>
+    <string name="attence_is_marked">Attendance for today is already marked!</string>
+    <string name="att_marked">\nYour attendance is marked!</string>
+    <string name="error_msg_device_not_support_hardware">Your device does not support this feature.</string>
+    <string name="error_msg_keygaurd_disabled">Secure lock screen hasn\'t set up. \n Go to \'Settings -> Security -> Fingerprint\' to set up a fingerprint</string>
+</resources>
